@@ -1,2 +1,2 @@
 # Student-Management-System
-A java swig project with mysql 
+A java swing project with mysql 
